@@ -1,25 +1,4 @@
-<title>Laboratório DIO - Análise de Dados com Power BI</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f5f5f5;
-      color: #333;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    h2 {
-      color: #34495e;
-    }
-    ul {
-      margin-top: 10px;
-    }
-    section {
-      margin-bottom: 30px;
-    }
-  </style>
-</head>
+
 <body>
 
   <h1>Laboratório DIO - Análise de Dados com Power BI</h1>
